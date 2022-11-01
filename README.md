@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Next Level Week Copa logo" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="Next Level Week Copa logo" title="#NextLevelWeek" src="https://raw.githubusercontent.com/felipecabrals/bolao-copa-app-web/3ffabbc2e2a4a86b3afa673173c4c9f9b1a698bf/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
