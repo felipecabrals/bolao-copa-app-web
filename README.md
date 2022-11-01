@@ -60,7 +60,7 @@ An online and completely free event that will help you take the next step in you
 Bolão da Copa (FIFA World Cup Sweepstake, like a predict-the-score game) is a web and mobile platform that people can play a predict-the-score game and share with your friends.
 
 <h1 align="center">
-    <img alt="Design NLW" title="esign NLW" src="/project.png" width="500px" />
+    <img alt="Design NLW" title="esign NLW" src="https://github.com/felipecabrals/bolao-copa-app-web/blob/master/project.png?raw=true" width="500px" />
 </h1>
 
 <h1 align="center">
